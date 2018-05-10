@@ -1,6 +1,5 @@
-#Analysis and Design
-## Sofware Development Lyfe Cicles
 *Original notes made by [Marta Beveridge](https://github.com/martabeveridge)*
+## Sofware Development Lyfe Cicles
 
 ### Waterfall
 
