@@ -1,4 +1,3 @@
-#Implementation and Testing
 *Original notes made by [Marta Beveridge](https://github.com/martabeveridge)*
 ##Programming constructs
 * **Expression:** Combination of one or more values that can be interpreted and return a value. *e.g. 2+3*
