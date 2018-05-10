@@ -46,15 +46,15 @@
 
 ## Use of analysis and design in the software development process
 
-###User Interface Design
+### User Interface Design
 * Focus on anticipating user needs
 * Ensure required interface elements are easy to access/use
 
-###Entity Relationship Model
+### Entity Relationship Model
 * Graphical representation of entities and relationship to each other
 * *e.g. ONE to ONE, ONE to MANY, MANY to MANY*
 
-###Data Design
+### Data Design
 * Takes design analysis and turns into data structures such as ERD and Data Dictionary
 * Defined by Wasserman, has 7 principles
 
